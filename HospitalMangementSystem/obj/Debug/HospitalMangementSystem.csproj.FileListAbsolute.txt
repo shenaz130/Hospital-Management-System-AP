@@ -1,0 +1,44 @@
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\bin\Debug\HospitalMangementSystem.exe.config
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.csprojResolveAssemblyReference.cache
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.Login.resources
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.Properties.Resources.resources
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.csproj.GenerateResource.Cache
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\bin\Debug\HospitalMangementSystem.exe
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\bin\Debug\HospitalMangementSystem.pdb
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.exe
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.pdb
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.Home.resources
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.ConsultMain.resources
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.DeitAdvicesMain.resources
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.EmployeeMain.resources
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.MedicationMain.resources
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.PaitentMain.resources
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.PrescriptionMain.resources
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.ReportMain.resources
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.TestMain.resources
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.AddPatient.resources
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.DeletePatient.resources
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.UpdatePatient.resources
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.EditPatient.resources
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\bin\Debug\MySql.Data.dll
+E:\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\bin\Debug\MySql.Data.xml
+E:\Higher Studies\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\bin\Debug\HospitalMangementSystem.exe.config
+E:\Higher Studies\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.exe
+E:\Higher Studies\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.pdb
+E:\Higher Studies\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.csprojResolveAssemblyReference.cache
+E:\Higher Studies\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.AddPatient.resources
+E:\Higher Studies\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.ConsultMain.resources
+E:\Higher Studies\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.DeitAdvicesMain.resources
+E:\Higher Studies\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.DeletePatient.resources
+E:\Higher Studies\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.EditPatient.resources
+E:\Higher Studies\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.EmployeeMain.resources
+E:\Higher Studies\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.Home.resources
+E:\Higher Studies\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.Login.resources
+E:\Higher Studies\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.MedicationMain.resources
+E:\Higher Studies\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.PaitentMain.resources
+E:\Higher Studies\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.PrescriptionMain.resources
+E:\Higher Studies\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.Properties.Resources.resources
+E:\Higher Studies\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.ReportMain.resources
+E:\Higher Studies\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.TestMain.resources
+E:\Higher Studies\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.UpdatePatient.resources
+E:\Higher Studies\RQS_CSD_HND\Semester 3\Advanced Programming\LO3\HospitalMangementSystem\HospitalMangementSystem\obj\Debug\HospitalMangementSystem.csproj.GenerateResource.Cache
